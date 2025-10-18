@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Unstoppable Hu Bhencho Sab Ajao⚡</title>
+  <title>Unstoppable!...⚡</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Quicksand:wght@400;700&display=swap');
 
@@ -81,7 +81,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>⚡ I’m Unstoppable No one can stop me⚡</h1>
+    <h1>⚡ I’m Unstoppable ⚡</h1>
     <h2>Positivity is my power — nothing can dim my spark 🔥</h2>
     <button class="btn" onclick="alert('Keep going — you’re doing amazing 💪')">Vibe On</button>
   </div>
