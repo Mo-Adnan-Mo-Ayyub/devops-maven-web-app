@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Unstoppable Hu Bhencho ⚡</title>
+  <title>Unstoppable Hu Bhencho Sab Ajao⚡</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Quicksand:wght@400;700&display=swap');
 
